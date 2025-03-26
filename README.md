@@ -2,19 +2,13 @@
 
 ###
 
-<h3 align="center">Cybersecurity Student in ENTI-UB at Barcelona</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" height="177" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV5NDUyOGU3cGJhdzJrMWtiOGVmMHJocTB3YzM3N2hqaXZpZDBmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hcp2bxnGFOYzwX994H/giphy.webp"  />
+<h3 align="center">Cybersecurity Student</h3>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zer0plusone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zer0plusone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcsantacana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcsantacana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -93,33 +87,26 @@
 
 ### Certifications
 <div align="left">
-  <a href="https://www.credly.com/badges/edd2d9b7-5337-45d0-be8d-990b461b66af/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/b182768c-d831-4d29-bfa8-5a5b6b5e7c4a/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="75"/>
   </a>
-    <a href="https://www.credly.com/badges/36471ab1-65ff-4baf-b3b9-612326c0fb1e/public_url" target="_blank">
+    <a href="https://www.credly.com/badges/85163a69-ff48-4a3e-ba89-906c1aa67be0/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" height="75"/>
   </a>
-    <a href="https://www.credly.com/badges/6b813f76-0405-4fa6-b4d2-c9f09cbee79c/public_url" target="_blank">
+    <a href="https://www.credly.com/badges/4ea11186-d9ea-4e5c-bedc-2fcb7b7ff9c0/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" height="75"/>
   </a>
   </a>
-    <a href="https://www.credly.com/badges/857da5d5-fce2-4d37-a44b-ae160a222e43/public_url" target="_blank">
+    <a href="https://www.credly.com/badges/ee4638d3-7fff-4e72-898b-d7866b375cc5/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" height="75"/>
   </a>
   </a>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/HCJZXMLSOES2" target="_blank">
-    <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="75"/>
+    <a href="https:" target="_blank">
+    <img src="https" height="75"/>
+  </a>
+    <a href="https://www.credly.com/badges/a79501ea-862b-45a3-8b5f-16b308e0167d/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" height="75"/>
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Zer0plusOne/Zer0plusOne/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/Zer0plusOne/count.svg?"  />
 
 ###
