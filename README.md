@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Cybersecurity Student</h3>
+<h3 align="center">Working and Studying Cybersecurity</h3>
 
 ###
 
@@ -13,22 +13,18 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on DEDSEC_Multitool<br><br>🌱 I’m currently learning Cybersecurity and working on my personal practice projects.<br><br>👨‍💻 My current projects are avalible at my github profile.<br><br>💬 Ask me about Whatever you want, ill respond if I know.<br><br>⚡ Fun fact: I may be more dumb that you can actually imagine</p>
+<p align="left">🔭 I’m currently working at Grupo SIRT<br><br>🌱 I’m currently learning Cybersecurity and working on my personal projects.<br><br>👨‍💻 My current projects are avalible at my github profile.<br><br>💬 Ask me about whatever you want, ill respond if I know.</p>
 
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/sanchez_g2k04/" target="_blank">
+  <a href="https://www.instagram.com/m_santacana/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://x.com/ASteam_Zer0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/guillermo-g%C3%B3mez-s%C3%A1nchez-54079629a/" target="_blank">
+  <a href="https://www.linkedin.com/in/marcsantacana" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=@zer0who&logo=discord&label=Discord&color=5a5a5a&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dekodezer0@gmail.com&logo=gmail&label=Gmail&color=5a5a5a&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=marcsh05@gmail.com&logo=gmail&label=Gmail&color=5a5a5a&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 ###
@@ -100,9 +96,6 @@
     <a href="https://www.credly.com/badges/ee4638d3-7fff-4e72-898b-d7866b375cc5/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" height="75"/>
   </a>
-  </a>
-    <a href="https:" target="_blank">
-    <img src="https" height="75"/>
   </a>
     <a href="https://www.credly.com/badges/a79501ea-862b-45a3-8b5f-16b308e0167d/public_url" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" height="75"/>
