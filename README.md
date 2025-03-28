@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on a vulnerability scanner tool<br><br>🌱 I’m currently learning Cybersecurity and working on my personal projects.<br><br>👨‍💻 My current projects are avalible at my github profile.<br><br>💬 Ask me about whatever you want, ill respond if I know.</p>
+<p align="left">🔭 I’m currently working on bugSweeper, a vulnerability scanner tool<br><br>🌱 I’m currently learning Cybersecurity and working on my personal projects.<br><br>👨‍💻 My current projects are avalible at my github profile.<br><br>💬 Ask me about whatever you want, ill respond if I know.</p>
 
 ###
 
